@@ -10,3 +10,6 @@ env/
 
 # Other
 .DS_Store
+.env
+.vscode/
+.idea/
