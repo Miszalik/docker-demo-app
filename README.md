@@ -1,7 +1,7 @@
 # Docker Demo App
 
 ## TODO
-- [ ] Install docker on VM
+- [x] Install docker on VM
 - [x] Create simple app (Python Flask + Redis)
 - [x] Dockerizing
 - [x] Docker compose
@@ -19,3 +19,4 @@ poetry run flask --app app.app run --host=0.0.0.0, --port=8080
 ``` bash
 docker compose up
 ```
+
